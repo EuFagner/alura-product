@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+header {
+    background-color: #bbbbbb;
+}
+
+.caixa {
+    position: relative;
+    margin: auto;
+    max-width: 840px;
+}
+
+nav ul {
+    position: absolute;
+    top: 110px;
+    right: 0px;
+}
+
+nav li {
+    display: inline;
+    margin-left: 15px;
+}
+
+nav a {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 1.3em;
+}
