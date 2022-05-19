@@ -83,9 +83,13 @@ nav a:hover {
 
 footer {
     background: url("../imagens/bg.jpg");
+    text-align: center;
+    padding: 20px 0px;
+}
+
+.copyright {
     color: white;
     font-family: 'Roboto Flex', sans-serif;
     font-weight: normal;
-    text-align: center;
-    padding: 30px 0px;
+    margin: 20px 0px;
 }
